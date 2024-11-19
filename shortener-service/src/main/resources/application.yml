@@ -1,0 +1,6 @@
+server:
+  port: ${SHORTIFY_SHORTENER_SERVICE_PORT:7060}
+
+spring:
+  application:
+    name: shortener-service

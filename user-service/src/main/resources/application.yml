@@ -1,0 +1,6 @@
+server:
+  port: ${SHORTIFY_USER_SERVICE_PORT:7050}
+
+spring:
+  application:
+    name: user-service
